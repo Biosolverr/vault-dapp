@@ -9,7 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "npm install @base-org/account",
+    "@base-org/account": "^1.0.0",
     "@tanstack/react-query": "^5.0.0",
     "react": "^18.3.0",
     "react-dom": "^18.3.0",
