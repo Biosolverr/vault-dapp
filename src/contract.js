@@ -1,5 +1,5 @@
 // Replace CONTRACT_ADDRESS with your deployed contract address on Base mainnet
-export const CONTRACT_ADDRESS = '0x0000000000000000000000000000000000000000';
+export const CONTRACT_ADDRESS = '0x5cD8C948E74287cAAD9b0635899A63BdF012Ed11';
 
 export const ABI = [
   // State
